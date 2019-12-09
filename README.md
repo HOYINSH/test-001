@@ -1,2 +1,1 @@
-# test-001
-This is a repository.
+Git 操作其实很简单.
